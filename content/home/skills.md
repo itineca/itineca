@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Neuroimaging"
+  description = "Functional MRI analysis"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "notes-medical"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Clinical Trials"
+  description = "Coordination of industry-sponsored & investigator-initiated trials"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "comments"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Knowledge Translation"
+  description = "Mental health outreach & advocacy"
 
 +++
