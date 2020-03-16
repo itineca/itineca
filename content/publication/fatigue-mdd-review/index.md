@@ -30,9 +30,9 @@ tags:
 - Depression
 featured: false
 
-# links:
-# - name: "PubMed"
-#   url: "https://www.ncbi.nlm.nih.gov/pubmed/29383573"
+links:
+- name: "PubMed"
+  url: "https://www.ncbi.nlm.nih.gov/pubmed/29383573"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

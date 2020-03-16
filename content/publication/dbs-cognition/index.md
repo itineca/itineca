@@ -38,9 +38,9 @@ tags:
 - Neurocognition
 featured: false
 
-# links:
-# - name: "PubMed"
-#   url: "https://www.ncbi.nlm.nih.gov/pubmed/28286473"
+links:
+- name: "PubMed"
+  url: "https://www.ncbi.nlm.nih.gov/pubmed/28286473"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

@@ -35,9 +35,9 @@ tags:
 - Research Domain Criteria
 featured: false
 
-# links:
-# - name: "PubMed"
-#   url: "https://www.ncbi.nlm.nih.gov/pubmed/29687627"
+links:
+- name: "PubMed"
+  url: "https://www.ncbi.nlm.nih.gov/pubmed/29687627"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

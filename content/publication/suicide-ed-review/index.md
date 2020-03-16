@@ -30,9 +30,9 @@ tags:
 - Suicidality
 featured: false
 
-# links:
-# - name: "PubMed"
-#   url: "https://www.ncbi.nlm.nih.gov/pubmed/30268506"
+links:
+- name: "PubMed"
+  url: "https://www.ncbi.nlm.nih.gov/pubmed/30268506"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
