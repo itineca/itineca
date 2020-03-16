@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = """
-  Involved in several studies, including: 
+  I have been involved in several studies with the program, including: 
   * Depression and suicide risk following mild traumatic brain injury (primary project)
   * Biomarkers of suicide risk
-  * Several clinical trials for depression, including desvenlafaxine, esketamine, deep brain stimulation
+  * Clinical trials of pharmacological and neurostimulation treatments for depression, including desvenlafaxine, esketamine, and deep brain stimulation
   * Retrospective chart review of suicide-related presentations to the Emergency Department
 
   Responsibilities across studies include participant recruitment, completion of diagnostic interviews, REB applications and correspondence, running brain imaging sessions, processing of blood and saliva samples, and data analysis.

@@ -107,7 +107,6 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/aCeniti"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://ca.linkedin.com/in/amandaceniti"},
-  {icon = "envelope", icon_pack = "fas", name = "Email", link = "mailto:amandaceniti@unityhealth.to"},
   {icon = "researchgate", icon_pack = "ai", name = "ResearchGate Profile", link = "https://www.researchgate.net/profile/Amanda_Ceniti"},
   {icon = "pubmed", icon_pack = "ai", name = "Publications on PubMed", link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=ceniti+ak%5Bauthor%5D"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
