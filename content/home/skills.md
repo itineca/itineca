@@ -18,13 +18,13 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Neuroimaging"
-  description = "Functional MRI analysis"
+  description = "Analysis of functional MRI data"
   
 [[feature]]
   icon = "notes-medical"
   icon_pack = "fas"
   name = "Clinical Trials"
-  description = "Coordination of industry-sponsored & investigator-initiated trials"  
+  description = "Coordination of industry-sponsored & investigator-initiated depression trials"  
   
 [[feature]]
   icon = "comments"
