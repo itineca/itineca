@@ -1,7 +1,7 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
-<!-- Accomplishments widget -->
+<!-- Teaching widget -->
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
@@ -35,9 +35,9 @@
             <div class="card-text">{{. | markdownify | emojify}}</div>
           {{end}}
 
-          {{ with .certificate_url }}
+          {{ with .teaching_evaluation }}
             <a class="card-link" href="{{.}}" target="_blank" rel="noopener">
-              {{ i18n "see_certificate" | default "Teaching Evaluation" }}
+              {{ i18n "teaching_evaluation" | default "Teaching Evaluation" }}
             </a>
           {{ end }}
         </div>
