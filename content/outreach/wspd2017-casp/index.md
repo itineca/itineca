@@ -1,5 +1,5 @@
 ---
-title: World Suicide Prevention Day 2017: CASP Conference
+title: World Suicide Prevention Day 2017
 summary: Sept. 11-12, 2017 &mdash; For WSPD 2017, we partnered with the Canadian Association for Suicide Prevention (CASP) to co-host a conference on the role of the arts in suicide prevention, intervention, and postvention.
 tags:
 - Outreach Event
