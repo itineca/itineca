@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Teaching Assistant, Topics in Health & Disease (3rd Year Undergraduate)"
   url = ""
-  teaching_evaluation = "#popup__teachingeval-HMB322-2018"
+  teaching_evaluation = ""
   date_start = "2018-01-01"
   date_end = "2018-04-30"
   description = ""
@@ -76,20 +76,22 @@ date_format = "Jan 2006"
   date_end = "2016-04-30"
   description = ""
 
-<div class="popup" id="popup__teachingeval-HMB322-2018">
-  <a class="popup__cancel" href="#!"></a>
-  <div class="popup__content">
-    <a href="#!" class="popup__close">×</a>
-    <p class="popup__text">
-    | Question                                                           | Ranking (7-point scale)  |
-    | -------------------------------------------------------------------| ------------------------ |
-    | Overall rating for TA                                              | `6.6`                    |
-    | Enthusiastic and interested in topics presented                    | `6.7`                    |
-    | Overall contribution to your learning experience in this course    | `6.8`                    |
-    </p>
-  </div>
-</div>
 
 
 +++
+
+# TEACHING EVALUATION POPUP DRAFT
+# <div class="popup" id="popup__teachingeval-HMB322-2018">
+#   <a class="popup__cancel" href="#!"></a>
+#   <div class="popup__content">
+#     <a href="#!" class="popup__close">×</a>
+#     <p class="popup__text">
+#     | Question                                                           | Ranking (7-point scale)  |
+#     | -------------------------------------------------------------------| ------------------------ |
+#     | Overall rating for TA                                              | `6.6`                    |
+#     | Enthusiastic and interested in topics presented                    | `6.7`                    |
+#     | Overall contribution to your learning experience in this course    | `6.8`                    |
+#     </p>
+#  </div>
+# </div>
 
