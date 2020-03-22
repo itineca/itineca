@@ -68,6 +68,11 @@ email: ""
 # - Visitors
 ---
 
-Amanda Ceniti is a PhD Candidate with the Institute of Medical Science at the University of Toronto. Her research is based at the ASR Suicide & Depression Studies Program at St. Michael's Hospital, and focuses on the association between concussion and subsequent depression and suicidality using neuroimaging techniques. 
+I am a PhD Candidate with the Institute of Medical Science at the University of Toronto. My research is based at the ASR Suicide & Depression Studies Program at St. Michael's Hospital, and focuses on the association between concussion and subsequent depression and suicidality using neuroimaging techniques (fMRI).
 
-She is involved in several additional studies with the program, including biomarkers of suicide risk and suicide-related presentations to the emergency department. Amanda is also passionate about science communication, and has organized several public outreach and mental health advocacy events.
+In addition to my main PhD study, I have been involved in several other projects with the program, including studies of neurobiological markers of suicide risk, suicide-related presentations to the emergency department, and various clinical trials of pharmacotherapy and neurostimulation for depression.
+
+A key area of personal interest and growth during my PhD has been the opportunity to gain teaching experience across a diverse set of roles &mdash; in the university setting as a <a href="#teaching">Teaching Assistant</a>, in a research setting as a mentor to junior students, in community settings with youth, and in a more public capacity with the organization of educational outreach and advocacy events on mental health. 
+
+I am passionate about science communication, bridging the gap between academic and public spheres, and integrating the lived experience voice into the research process &mdash; making research a dynamic and collaborative endeavour that is responsive to the input and needs of the communities it serves.
+
