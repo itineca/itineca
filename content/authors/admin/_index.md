@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include the neurobiology of depression and suicide, and the psychiatric sequelae of traumatic brain injury. I am also passionate about science communication and mental health advocacy.
 
 interests:
-- Depression & Suicide Risk
-- Functional Neuroimaging
-- Neuropsychiatric Sequelae of Traumatic Brain Injury
-- Mental Health Outreach & Advocacy
+- Depression & suicide risk
+- Functional neuroimaging
+- Neuropsychiatric sequelae of traumatic brain injury
+- Mental health outreach & advocacy
 
 education:
   courses:
