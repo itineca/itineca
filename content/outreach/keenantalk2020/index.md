@@ -19,7 +19,7 @@ links:
   url: 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "http://www.conversationsmatter.com.au/LiteratureRetrieve.aspx?ID=2342"
 url_video: ""
 
 # Slides (optional).
@@ -31,3 +31,5 @@ slides: example
 ---
 
 As part of the Keenan Popular Science Lecture Series at St. Michael's Hospital, on February 13, 2020, I gave a public talk to a group of 50 high school students about suicide prevention. We covered major risk factors for suicide, and how to have a conversation with a loved one if you are concerned about them.
+
+Take-home resources for students included the Conversations Matter guide developed by Everymind and supported by the NSW Mental Health Commission. <a href="http://www.conversationsmatter.com.au/LiteratureRetrieve.aspx?ID=2342">Download the fact sheet here.</a>
