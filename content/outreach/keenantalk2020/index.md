@@ -19,7 +19,7 @@ links:
   url: 
 url_code: ""
 url_pdf: ""
-url_slides: "http://www.conversationsmatter.com.au/LiteratureRetrieve.aspx?ID=2342"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
