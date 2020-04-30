@@ -5,12 +5,15 @@ name = "AC Custom Theme"
 light = true
 
 # Primary
-primary = "#2A9D8F"
+primary = "#ED5C4D"
+# OLD primary = "#2A9D8F"
 
 # Menu
-menu_primary = "#264653" # 500
+menu_primary = "#273253"
+# OLD menu_primary = "#264653" # 500
 menu_text = "#fff"
-menu_text_active = "#9AE4DC" # A100
+menu_text_active = "#FBBE4B"
+# OLD menu_text_active = "#9AE4DC" # A100
 menu_title = "#fff"
 
 # Home sections
