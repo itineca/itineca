@@ -18,19 +18,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the neurobiology of depression and suicide, and the psychiatric sequelae of traumatic brain injury. I am also passionate about science communication and mental health advocacy.
+bio: My research interests include the neurobiology of depression and suicide risk, and the psychiatric impact of traumatic brain injury. I'm also passionate about science communication and mental health advocacy.
 
 interests:
 - Depression & suicide risk
 - Functional neuroimaging
-- Neuropsychiatric sequelae of traumatic brain injury
+- Neuropsychiatric impact of traumatic brain injury
 - Mental health outreach & advocacy
 
 education:
   courses:
-  - course: PhD Candidate in Medical Sciences
+  - course: PhD in Medical Science
     institution: University of Toronto
-    year: present
+    year: 2015-present
   - course: HBSc in Human Biology (Neuroscience)
     institution: University of Toronto
     year: 2015
@@ -68,6 +68,6 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD Candidate with the Institute of Medical Science at the University of Toronto, based at the ASR Suicide & Depression Studies Program at St. Michael's Hospital. My primary research project focuses on the association between concussion, depression & suicide risk using neuroimaging (fMRI). I have also been involved in studies of neurobiological markers of suicide risk, Emergency Department visits for suicidality, and various clinical trials of pharmacotherapy and neurostimulation for depression.
+Welcome! I'm a PhD Candidate with the Institute of Medical Science at the University of Toronto, based at the <a href="http://www.asrlife.ca/">ASR Suicide & Depression Studies Program</a> at St. Michael's Hospital and supervised by <a href="http://stmichaelshospitalresearch.ca/researchers/sidney-kennedy/">Dr. Sidney Kennedy</a>. My PhD research focuses on the association between concussion, depression & suicide risk, using a multimodal approach that incorporates brain imaging (fMRI), measures of cognitive and reward processing, and clinical and sociodemographic variables. I'm also involved in studies of neurobiological markers of suicide risk, Emergency Department visits for suicidality, and clinical trials of pharmacotherapy and neurostimulation for depression.
 
-I am passionate about science communication and have experience teaching across diverse contexts &mdash; at the university level as a <a href="#teaching">Teaching Assistant</a>, in the lab as a mentor to junior students, in community settings with youth, and in a public capacity through mental health outreach and advocacy events. I have a strong interest in bridging the gap between academic and public spheres, and integrating the lived experience voice into the research process &mdash; making research a dynamic and collaborative endeavour that's responsive to the input and needs of the communities it serves.
+I'm passionate about science communication in all forms &mdash; whether it's as a <a href="#teaching">Teaching Assistant</a>, as a mentor in the lab, through public speaking & outreach events with youth in the community, or online right here! I'm interested in bridging the gap between the academic and public spheres, and integrating the lived experience voice into the research process &mdash; making research a dynamic and collaborative process that's responsive to the input and needs of the communities it serves.
