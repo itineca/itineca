@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the neurobiology of depression and suicide risk, and the psychiatric impact of traumatic brain injury. I'm also passionate about science communication and mental health advocacy.
+bio: Research interests include the neurobiology of depression and suicide risk, and the psychiatric impact of traumatic brain injury. I'm also passionate about mental health advocacy and science communication!
 
 interests:
 - Depression & suicide risk
