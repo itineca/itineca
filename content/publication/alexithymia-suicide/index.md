@@ -31,7 +31,7 @@ RESULTS: There is consistent evidence linking alexithymia with suicidal ideation
 CONCLUSION: The relationship between alexithymia and suicidality seems to differ based on whether the research focuses on suicidal ideation, suicide attempts, or NSSI. The relationship between alexithymia and suicidality can be understood within the context of multiple code theory and childhood trauma. Future research should explore the whether alexithymia can reliably distinguish between those with a single attempt and those with multiple suicide attempts as well as alexithymia levels pre- and post-intervention with suicide-related behavior as outcomes in treatment studies."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In this literature review, consistent evidence was found for an association between alexithymia and suicidal ideation, and between alexithymia and non-suicidal self-injury &mdash; but weaker evidence linking alexithymia & suicide attempts. Findings have implications for suicide prevention and risk prediction, but further study is needed.
 
 tags:
 - alexithymia

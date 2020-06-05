@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "Fatigue is a frequently reported symptom in major depressive disorder, occurring in over 90% of patients. Clinical presentations of fatigue within major depressive disorder encompass overlapping physical, cognitive and emotional aspects. While this review addresses the epidemiology, burden, functional impact and management of fatigue in major depressive disorder, the main focus is on available pharmacotherapy options and their comparative efficacies. Our review of the effects of pharmacological treatments on fatigue in major depressive disorder found that medications with dopaminergic and/or noradrenergic action such as modafinil, flupenthixol and atomoxetine were most effective in improving symptoms of fatigue and low energy. However, significant variation across studies in assessment tools and study inclusion/exclusion criteria may have contributed to inconsistent findings. The efficacy of non-pharmacological interventions is also discussed, including light therapy and exercise."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Fatigue is a frequently occurring symptom in Major Depressive Disorder (MDD), reported by over 90% of individuals with MDD. In this paper, we presented an overview of the epidemiology, burden, and functional impact of fatigue. We also reviewed the literature on pharmacological approaches to managing fatigue, finding that medications affecting dopamine and/or norepinephrine were most effective.
 
 tags:
 - Fatigue

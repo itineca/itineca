@@ -10,7 +10,7 @@ authors:
 - Bergmans Y
 - Kennedy SH
 date: "2019-05-10T00:00:00Z"
-doi: ""
+doi: "10.1016/j.genhosppsych.2019.05.001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-15T00:00:00Z"
@@ -28,7 +28,7 @@ publication_short: "Gen Hosp Psychiatry"
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: This paper presents preliminary data from a retrospective chart review of suicide-related presentations to the St. Michael's Hospital Emergency Department (ED) over a two-year period. We sought to compare the demographics, clinical presentation, and discharge plans of individuals experiencing homelessness relative to housed individuals.
 
 tags:
 - suicidality

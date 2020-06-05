@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research interests include the neurobiology of depression and suicide risk, and the psychiatric impact of traumatic brain injury. I'm also passionate about mental health advocacy and science communication!
+bio: My research interests include the neurobiology of depression and suicide risk, and the psychiatric impact of traumatic brain injury. I'm also passionate about mental health advocacy and science communication!
 
 interests:
 - Depression & suicide risk
@@ -70,4 +70,4 @@ email: ""
 
 Welcome! I'm a PhD Candidate with the Institute of Medical Science at the University of Toronto, based at the <a href="http://www.asrlife.ca/" target="_blank">ASR Suicide & Depression Studies Program</a> at St. Michael's Hospital and supervised by <a href="http://stmichaelshospitalresearch.ca/researchers/sidney-kennedy/" target="_blank">Dr. Sidney Kennedy</a>. My PhD research focuses on the association between concussion, depression & suicide risk, using a multimodal approach that incorporates brain imaging (fMRI), measures of cognitive and reward processing, and clinical and sociodemographic variables. I'm also involved in studies of neurobiological markers of suicide risk, Emergency Department visits for suicidality, and clinical trials of pharmacotherapy and neurostimulation for depression.
 
-I'm passionate about science communication in all forms &mdash; whether it's as a <a href="#teaching">Teaching Assistant</a>, as a mentor in the lab, through public speaking & outreach events with youth in the community, or online right here! I'm interested in bridging the gap between the academic and public spheres, and integrating the lived experience voice into the research process &mdash; making research a dynamic and collaborative process that's responsive to the input and needs of the communities it serves.
+I'm passionate about science communication in all forms &mdash; whether as a <a href="#teaching">Teaching Assistant</a>, as a mentor in the lab, through <a href="#outreach">public speaking & outreach events</a> with youth in the community, or right here online! I'm interested in bridging the gap between the academic and public spheres, and integrating the lived experience voice into the research process &mdash; making research a dynamic and collaborative process that's responsive to the input and needs of the communities it serves.

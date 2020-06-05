@@ -1,6 +1,6 @@
 ---
 title: World Suicide Prevention Day 2019
-summary: Sept. 10, 2019 &mdash; Featured video interview for WSPD 2019 about the ASR's Storybook Project initiative, in the context of my personal experience with suicide loss.
+summary: Sept. 10, 2019 &mdash; Featured video interview for WSPD 2019 about the ASR Program's <a href="http://www.asrlife.ca/storybook" target="_blank">Storybook Project</a> outreach initiative, in the context of my personal experience with suicide loss.
 tags:
 date: "2019-09-10T00:00:00Z"
 

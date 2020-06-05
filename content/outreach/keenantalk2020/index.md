@@ -1,6 +1,6 @@
 ---
 title: Keenan Popular Science Lecture
-summary: Feb. 13, 2020 &mdash; Public talk at St. Michael's Hospital to high school students about suicide prevention and how to have a conversation if you're concerned about someone
+summary: Feb. 13, 2020 &mdash; Public talk at St. Michael's Hospital to high school students about suicide prevention and how to have a conversation if you're concerned about someone.
 tags:
 - Public Lecture
 date: "2020-02-13T00:00:00Z"
@@ -12,15 +12,15 @@ image:
   caption:
   focal_point: Smart
 
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# links:
+# - icon: 
+#   icon_pack: 
+#   name: 
+#   url: 
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

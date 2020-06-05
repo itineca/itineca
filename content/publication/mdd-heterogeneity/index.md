@@ -4,7 +4,7 @@ authors:
 - Kennedy SH
 - Ceniti AK
 date: "2018-05-01T00:00:00Z"
-doi: ""
+doi: "10.1177/0706743717748883"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-15T00:00:00Z"
@@ -22,7 +22,7 @@ publication_short: "Can J Psychiatry"
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In this brief *Perspective* piece, we discuss the heterogeneity of depression, and the limited success of a 'one-size-fits-all' approach to treatment. We explore a personalized medicine approach to psychiatry, which integrates brain circuitry, genetic and molecular markers, and individual clinical symptoms through machine learning approaches to ultimately improve treatment selection.
 
 tags:
 - Major Depressive Disorder
