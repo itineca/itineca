@@ -1,5 +1,5 @@
 ---
-title: Anhedonia and reward-related deficits in traumatic brain injury: Implications for development of depression post-injury (Poster)
+title: "Anhedonia and reward-related deficits in traumatic brain injury: Implications for development of depression post-injury (Poster)"
 event: International Brain Injury Association (IBIA) World Congress
 event_url: https://www.internationalbrain.org/
 
