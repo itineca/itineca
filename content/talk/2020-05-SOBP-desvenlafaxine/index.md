@@ -11,7 +11,7 @@ location: Online (due to COVID-19)
 #  postcode: '94305'
 #  country: United States
 
-summary: Accepted for presentation at the Society for Biological Psychiatry Annual Meeting. In-person meeting cancelled due to the COVID-19 pandemic: e-poster available online.
+summary: "Accepted for presentation at the Society for Biological Psychiatry Annual Meeting. In-person meeting cancelled due to the COVID-19 pandemic: e-poster available online."
 abstract: ""
 
 # Talk start and end times.
