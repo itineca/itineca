@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [**Ceniti AK**, Rizvi SJ, Schweizer TA, Baker A, Hunt C, Bhalerao S, Kennedy SH]
+authors: [Ceniti AK, Rizvi SJ, Schweizer TA, Baker A, Hunt C, Bhalerao S, Kennedy SH]
 tags: []
 
 # Is this a featured talk? (true/false)

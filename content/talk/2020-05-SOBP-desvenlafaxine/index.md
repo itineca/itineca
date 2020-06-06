@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [**Ceniti AK**, Chow TK, Schweizer TA, McInerney SJ, Pizzagalli DA, Harmer C, McIntyre RS, Foussias G, Kennedy SH, Rizvi SJ]
+authors: [Ceniti AK, Chow TK, Schweizer TA, McInerney SJ, Pizzagalli DA, Harmer C, McIntyre RS, Foussias G, Kennedy SH, Rizvi SJ]
 tags: []
 
 # Is this a featured talk? (true/false)
