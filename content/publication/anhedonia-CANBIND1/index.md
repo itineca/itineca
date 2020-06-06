@@ -1,29 +1,7 @@
 ---
 title: "Clinical, behavioral, and neural measures of reward processing correlate with escitalopram response in depression: a Canadian Biomarker Integration Network in Depression (CAN-BIND-1) Report"
 authors:
-- Dunlop K
-- Rizvi SJ
-- Kennedy SH
-- Hassel S
-- Strother SC
-- Harris JK
-- Zamyadi M
-- Arnott SR
-- Davis AD
-- Mansouri F
-- Schulze L
-- Ceniti AK
-- Lam RW
-- Milev R
-- Rotzinger S
-- Foster JA
-- Frey BN
-- Parikh SV
-- Soares CN
-- Uher R
-- Turecki G
-- MacQueen GM
-- Downar J
+- Dunlop K, Rizvi SJ, Kennedy SH, Hassel S, Strother SC, Harris JK, Zamyadi M, Arnott SR, Davis AD, Mansouri F, Schulze L, Ceniti AK, Lam RW, Milev R, Rotzinger S, Foster JA, Frey BN, Parikh SV, Soares CN, Uher R, Turecki G, MacQueen GM, Downar J
 date: "2020-04-29T00:00:00Z"
 doi: "10.1038/s41386-020-0688-x"
 
