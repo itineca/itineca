@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: "PubMed"
+- name: "View Article on PubMed"
   url: "https://www.ncbi.nlm.nih.gov/pubmed/29687627"
 url_pdf: ''
 url_code: ''

@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: "PubMed"
+- name: "View Article on PubMed"
   url: "https://www.ncbi.nlm.nih.gov/pubmed/32349119"
 
 
