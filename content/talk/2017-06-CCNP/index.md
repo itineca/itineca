@@ -16,14 +16,14 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-06-07"
-date_end: "2017-06-09"
+date: "2017-06-07T00:00:00Z"
+date_end: "2017-06-09T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [**Ceniti AK**, Rizvi SJ, Muzina D, Dale R, McIntyre RS, Kennedy SH]
+authors: [Ceniti AK, Rizvi SJ, Muzina D, Dale R, McIntyre RS, Kennedy SH]
 tags: []
 
 # Is this a featured talk? (true/false)
