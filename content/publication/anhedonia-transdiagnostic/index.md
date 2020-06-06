@@ -1,12 +1,7 @@
 ---
 title: "Anhedonia in depression and schizophrenia: A transdiagnostic challenge"
 authors:
-- Lambert C
-- Da Silva S
-- Ceniti AK
-- Rizvi SJ
-- Foussias G
-- Kennedy SH
+- Lambert C, Da Silva S, Ceniti AK, Rizvi SJ, Foussias G, Kennedy SH
 date: "2018-04-23T00:00:00Z"
 doi: "10.1111/cns.12854"
 

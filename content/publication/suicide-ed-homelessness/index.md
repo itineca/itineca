@@ -1,14 +1,7 @@
 ---
 title: "Suicide-related presentations of homeless individuals to an inner-city emergency department"
 authors:
-- McInerney SJ
-- Fallahi A
-- Edgar NE
-- Ceniti AK
-- Rizvi SJ
-- Beder M
-- Bergmans Y
-- Kennedy SH
+- McInerney SJ, Fallahi A, Edgar NE, Ceniti AK, Rizvi SJ, Beder M, Bergmans Y, Kennedy SH
 date: "2019-05-10T00:00:00Z"
 doi: "10.1016/j.genhosppsych.2019.05.001"
 

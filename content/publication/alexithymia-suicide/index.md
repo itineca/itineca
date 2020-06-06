@@ -1,11 +1,7 @@
 ---
 title: "Alexithymia and self-harm: A review of nonsuicidal self-injury, suicidal ideation, and suicide attempts"
 authors:
-- Iskric A
-- Ceniti AK
-- Bergmans Y
-- McInerney S
-- Rizvi SJ
+- Iskric A, Ceniti AK, Bergmans Y, McInerney S, Rizvi SJ
 date: "2020-03-13T00:00:00Z"
 doi: "10.1016/j.psychres.2020.112920"
 

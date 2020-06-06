@@ -1,9 +1,7 @@
 ---
 title: "Fatigue in Patients with Major Depressive Disorder: Prevalence, Burden and Pharmacological Approaches to Management"
 authors:
-- Ghanean H
-- Ceniti AK
-- Kennedy SH
+- Ghanean H, Ceniti AK, Kennedy SH
 date: "2018-01-01T00:00:00Z"
 doi: "10.1007/s40263-018-0490-z"
 

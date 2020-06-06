@@ -1,9 +1,7 @@
 ---
 title: "Examining suicide-related presentations to the emergency department"
 authors:
-- Ceniti AK
-- Heinecke N
-- McInerney SJ
+- Ceniti AK, Heinecke N, McInerney SJ
 date: "2018-09-18T00:00:00Z"
 doi: "10.1016/j.genhosppsych.2018.09.006"
 

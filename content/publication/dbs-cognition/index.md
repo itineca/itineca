@@ -1,16 +1,7 @@
 ---
 title: "Neurocognitive Predictors of Response in Treatment Resistant Depression to Subcallosal Cingulate Gyrus Deep Brain Stimulation"
 authors:
-- McInerney SJ
-- McNeely HE
-- Geraci J
-- Giacobbe P
-- Rizvi SJ
-- Ceniti AK
-- Cyriac A
-- Mayberg HS
-- Lozano AM
-- Kennedy SH
+- McInerney SJ, McNeely HE, Geraci J, Giacobbe P, Rizvi SJ, Ceniti AK, Cyriac A, Mayberg HS, Lozano AM, Kennedy SH
 date: "2017-02-24T00:00:00Z"
 doi: "10.3389/fnhum.2017.00074"
 

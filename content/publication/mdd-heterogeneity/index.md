@@ -1,8 +1,7 @@
 ---
 title: "Unpacking Major Depressive Disorder: From Classification to Treatment Selection"
 authors:
-- Kennedy SH
-- Ceniti AK
+- Kennedy SH, Ceniti AK
 date: "2018-05-01T00:00:00Z"
 doi: "10.1177/0706743717748883"
 

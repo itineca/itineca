@@ -23,7 +23,15 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Teaching Assistant, Topics in Health & Disease (3rd Year Undergraduate)"
   url = ""
-  teaching_evaluation = ""
+  teaching_evaluation = """
+
+<details>
+  <summary>Teaching Evaluation</summary>
+  
+  Test of expanding text
+</details>
+
+  """
   date_start = "2020-07-01"
   date_end = "2020-08-31"
   description = ""
