@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Human Biology Program, University of Toronto"
-  organization_url = ""
+  organization_url = "https://hmb.utoronto.ca/"
   title = "Teaching Assistant, Topics in Health & Disease (3rd Year Undergraduate)"
   url = ""
   teaching_evaluation = ""
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Human Biology Program, University of Toronto"
-  organization_url = ""
+  organization_url = "https://hmb.utoronto.ca/"
   title = "Teaching Assistant, Topics in Health & Disease (3rd Year Undergraduate)"
   url = ""
   teaching_evaluation = ""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Human Biology Program, University of Toronto"
-  organization_url = ""
+  organization_url = "https://hmb.utoronto.ca/"
   title = "Teaching Assistant, Topics in Health & Disease (3rd Year Undergraduate)"
   url = ""
   teaching_evaluation = ""
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Human Biology Program, University of Toronto"
-  organization_url = ""
+  organization_url = "https://hmb.utoronto.ca/"
   title = "Teaching Assistant, Intro to Neuroscience (2nd Year Undergraduate)"
   url = ""
   teaching_evaluation = ""
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Human Biology Program, University of Toronto"
-  organization_url = ""
+  organization_url = "https://hmb.utoronto.ca/"
   title = "Teaching Assistant, Topics in Health & Disease (3rd Year Undergraduate)"
   url = ""
   teaching_evaluation = ""

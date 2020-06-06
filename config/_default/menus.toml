@@ -15,8 +15,13 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "publication"
   weight = 30
+
+[[main]]
+  name = "Presentations"
+  url = "talk"
+  weight = 35
 
 [[main]]
   name = "Teaching"
@@ -27,6 +32,7 @@
   name = "Outreach"
   url = "#outreach"
   weight = 50
+
 
 [[main]]
   name = "Contact"
