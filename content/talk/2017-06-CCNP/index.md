@@ -1,9 +1,9 @@
 ---
-title: Interaction between Psychache, Physical Pain, Reward Responsivity, Anhedonia, and Suicidality in Depression (Poster)
-event: IASR/AFSP Suicide Research Summit
-event_url: https://suicideresearchsummit.org/
+title: Demographic and clinical correlates of single versus repeated suicide attempts in mood disorders (Poster)
+event: Canadian College of Neuropsychopharmacology (CCNP) 40th Annual Meeting
+event_url: https://sobp.org/meetings/past-meetings/
 
-location: Miami, Florida, USA
+location: Kingston, ON, Canada
 #address:
 #  street: 450 Serra Mall
 #  city: Miami
@@ -11,19 +11,19 @@ location: Miami, Florida, USA
 #  postcode: '94305'
 #  country: United States
 
-summary: Presented at the IASR/AFSP International Summit on Suicide Research.
+summary: Presented at the 40th annual meeting of the Canadian College of Neuropsychopharmacology (CCNP).
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-28T11:30:00Z"
-date_end: "2019-10-28T13:30:00Z"
+date: "2017-06-07"
+date_end: "2017-06-09"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [**Ceniti AK**, Rizvi SJ, Chow T, McInerney SJ, Bergmans Y, Pizzagalli D, Solomons T, Farb N, Turecki G, Kennedy SH]
+authors: [**Ceniti AK**, Rizvi SJ, Muzina D, Dale R, McIntyre RS, Kennedy SH]
 tags: []
 
 # Is this a featured talk? (true/false)

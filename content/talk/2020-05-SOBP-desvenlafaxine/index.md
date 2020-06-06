@@ -1,9 +1,9 @@
 ---
-title: Interaction between Psychache, Physical Pain, Reward Responsivity, Anhedonia, and Suicidality in Depression (Poster)
-event: IASR/AFSP Suicide Research Summit
-event_url: https://suicideresearchsummit.org/
+title: Assessing anhedonia and reward processing in depression before and after treatment with desvenlafaxine (Poster)
+event: Society of Biological Psychiatry Annual Meeting
+event_url: https://sobp.org/meetings/2020-annual-meeting/
 
-location: Miami, Florida, USA
+location: Online (due to COVID-19)
 #address:
 #  street: 450 Serra Mall
 #  city: Miami
@@ -11,19 +11,19 @@ location: Miami, Florida, USA
 #  postcode: '94305'
 #  country: United States
 
-summary: Presented at the IASR/AFSP International Summit on Suicide Research.
+summary: Accepted for presentation at the Society for Biological Psychiatry Annual Meeting. In-person meeting cancelled due to the COVID-19 pandemic: e-poster available online.
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-28T11:30:00Z"
-date_end: "2019-10-28T13:30:00Z"
-all_day: false
+date: "2020-05"
+date_end: "2020-05"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [**Ceniti AK**, Rizvi SJ, Chow T, McInerney SJ, Bergmans Y, Pizzagalli D, Solomons T, Farb N, Turecki G, Kennedy SH]
+authors: [**Ceniti AK**, Chow TK, Schweizer TA, McInerney SJ, Pizzagalli DA, Harmer C, McIntyre RS, Foussias G, Kennedy SH, Rizvi SJ]
 tags: []
 
 # Is this a featured talk? (true/false)

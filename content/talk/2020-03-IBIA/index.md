@@ -1,9 +1,9 @@
 ---
-title: Interaction between Psychache, Physical Pain, Reward Responsivity, Anhedonia, and Suicidality in Depression (Poster)
-event: IASR/AFSP Suicide Research Summit
-event_url: https://suicideresearchsummit.org/
+title: Anhedonia and reward-related deficits in traumatic brain injury: Implications for development of depression post-injury (Poster)
+event: International Brain Injury Association (IBIA) World Congress
+event_url: https://www.internationalbrain.org/
 
-location: Miami, Florida, USA
+location: Toronto, ON, Canada
 #address:
 #  street: 450 Serra Mall
 #  city: Miami
@@ -11,19 +11,19 @@ location: Miami, Florida, USA
 #  postcode: '94305'
 #  country: United States
 
-summary: Presented at the IASR/AFSP International Summit on Suicide Research.
+summary: Presented at the International Brain Injury Association (IBIA) World Congress.
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-28T11:30:00Z"
-date_end: "2019-10-28T13:30:00Z"
+date: "2019-03-15T09:30:00Z"
+date_end: "2019-03-15T10:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [**Ceniti AK**, Rizvi SJ, Chow T, McInerney SJ, Bergmans Y, Pizzagalli D, Solomons T, Farb N, Turecki G, Kennedy SH]
+authors: [**Ceniti AK**, Foussias G, Rizvi SJ, Sinyor M, Schweizer TA, Kennedy SH]
 tags: []
 
 # Is this a featured talk? (true/false)

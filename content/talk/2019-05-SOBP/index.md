@@ -1,9 +1,9 @@
 ---
-title: Interaction between Psychache, Physical Pain, Reward Responsivity, Anhedonia, and Suicidality in Depression (Poster)
-event: IASR/AFSP Suicide Research Summit
-event_url: https://suicideresearchsummit.org/
+title: Resting-state functional connectivity in depression and mild traumatic brain injury (Poster)
+event: Society of Biological Psychiatry Annual Meeting
+event_url: https://sobp.org/meetings/past-meetings/
 
-location: Miami, Florida, USA
+location: Chicago, IL, USA
 #address:
 #  street: 450 Serra Mall
 #  city: Miami
@@ -11,19 +11,19 @@ location: Miami, Florida, USA
 #  postcode: '94305'
 #  country: United States
 
-summary: Presented at the IASR/AFSP International Summit on Suicide Research.
+summary: Presented at the Society of Biological Psychiatry Annual Meeting.
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-28T11:30:00Z"
-date_end: "2019-10-28T13:30:00Z"
+date: "2019-05-16T18:00:00Z"
+date_end: "2019-05-16T20:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [**Ceniti AK**, Rizvi SJ, Chow T, McInerney SJ, Bergmans Y, Pizzagalli D, Solomons T, Farb N, Turecki G, Kennedy SH]
+authors: [**Ceniti AK**, Rizvi SJ, Schweizer TA, Baker A, Hunt C, Bhalerao S, Kennedy SH]
 tags: []
 
 # Is this a featured talk? (true/false)
