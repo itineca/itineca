@@ -1,5 +1,5 @@
 ---
-title: Interaction between Psychache, Physical Pain, Reward Responsivity, Anhedonia, and Suicidality in Depression
+title: Interaction between Psychache, Physical Pain, Reward Responsivity, Anhedonia, and Suicidality in Depression (Poster)
 event: IASR/AFSP Suicide Research Summit
 event_url: https://suicideresearchsummit.org/
 
@@ -11,19 +11,19 @@ location: Miami, Florida, USA
 #  postcode: '94305'
 #  country: United States
 
-summary:
+summary: Poster presented at the IASR/AFSP Suicide Research Summit.
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-10-28T11:30:00Z"
-date_end: "2020-10-28T13:30:00Z"
+date_end: "2019-10-28T13:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: []
+authors: [Ceniti AK, Rizvi SJ, Chow T, McInerney SJ, Bergmans Y, Pizzagalli D, Solomons T, Farb N, Turecki G, Kennedy SH]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -62,14 +62,3 @@ projects:
 math: true
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
