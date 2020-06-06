@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Overlap between Depression and Mild Traumatic Brain Injury: Focus on Neuroimaging and Reward Processing" (Oral)
+title: "Exploring the Overlap between Depression and Mild Traumatic Brain Injury: Focus on Neuroimaging and Reward Processing (Oral)"
 event: Research Training Centre Seminar Series, St. Michael's Hospital
 event_url: 
 
