@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Recent & Upcoming Presentations
 
 # View.
 #   1 = List
@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "header_presentations_sm.jpg"
+  image: "header_presentations_sm.png"
 ---

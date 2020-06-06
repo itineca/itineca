@@ -1,5 +1,5 @@
 ---
-title: Assessing anhedonia and reward processing in depression before and after treatment with desvenlafaxine (Poster)
+title: Exploring the effect of concussion history on reward processing and anhedonia in depression (Poster)
 event: Society of Biological Psychiatry Annual Meeting
 event_url: https://sobp.org/meetings/2020-annual-meeting/
 
@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-06-05T00:00:00Z"
 
-authors: [Ceniti AK, Chow TK, Schweizer TA, McInerney SJ, Pizzagalli DA, Harmer C, McIntyre RS, Foussias G, Kennedy SH, Rizvi SJ]
+authors: [Ceniti AK, Rizvi SJ, Schweizer TA, Baker A, Hunt C, Bhalerao S, Kennedy SH]
 tags: []
 
 # Is this a featured talk? (true/false)
