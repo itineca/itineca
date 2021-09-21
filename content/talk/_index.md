@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Presentations
+title: Recent Presentations (selected)
 
 # View.
 #   1 = List
