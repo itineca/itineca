@@ -1,6 +1,6 @@
 ---
 title: New book from St. Michael's program shares stories of resilience and loss from suicide
-# summary: Feb. 13, 2020 &mdash; Public talk at St. Michael's Hospital to high school students about suicide prevention and how to have a conversation if you're concerned about someone.
+summary: Sept. 10, 2021 | Unity Health Toronto
 tags:
 - World Suicide Prevention Day
 - Storybook Project

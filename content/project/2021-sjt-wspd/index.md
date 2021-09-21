@@ -1,6 +1,6 @@
 ---
-title: Suicide, stigma & seeking help | St. James Town Blog
-# summary: Feb. 13, 2020 &mdash; Public talk at St. Michael's Hospital to high school students about suicide prevention and how to have a conversation if you're concerned about someone.
+title: Suicide, stigma & seeking help
+summary: Sept. 1, 2021 | St. James Town Blog
 tags:
 - World Suicide Prevention Day
 date: "2020-09-01T00:00:00Z"
