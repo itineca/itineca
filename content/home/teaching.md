@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Human Biology Program, University of Toronto"
   organization_url = "https://hmb.utoronto.ca/"
-  title = "Guest Lecturer: "Mental Health Perspectives: Inflammation and Microbiome""
+  title = "Guest Lecturer: Mental Health Perspectives: Inflammation and Microbiome"
   url = ""
   teaching_evaluation = ""
   date_start = "2021-02-01"
