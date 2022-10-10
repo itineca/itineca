@@ -4,7 +4,7 @@ summary: Nov. 29, 2021 | Unity Health Toronto Media Room
 tags:
 - Research Month
 - award
-date: "2021-11-290T00:00:00Z"
+date: "2021-11-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://unityhealth.to/2021/11/research-month-awards-2021/"
