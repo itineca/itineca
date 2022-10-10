@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Toronto"
   date_start = "2015-09-01"
-  date_end = ""
+  date_end = "2022-09-30"
   description = """
   I have been involved in several studies with the program, including: 
   * Depression and suicide risk following mild traumatic brain injury (primary project)
