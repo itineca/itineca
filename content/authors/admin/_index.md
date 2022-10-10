@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: (she/her/hers)<br>Postdoctoral Fellow
+role: (she/her/hers)<br><br>Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: St. Michael's Hospital,<br>Unity Health Toronto
+- name: St. Michael's Hospital, <br>Unity Health Toronto
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
