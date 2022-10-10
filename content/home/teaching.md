@@ -90,7 +90,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Saturday Program, University of Toronto"
-  organization_url = "http://uoftmeds.com/saturdayprogram"
+  organization_url = "https://www.saturday-program.com/"
   title = "Tutor (High School Students)"
   url = ""
   teaching_evaluation = ""
