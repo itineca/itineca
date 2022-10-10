@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Amanda Ceniti
+name: Amanda Ceniti, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the neurobiology of depression and suicide risk, and the psychiatric impact of traumatic brain injury. I'm also passionate about mental health advocacy and science communication!
+bio: My research interests include community-based suicide prevention focused on building social support capacity among family/friends of those at risk, the neurobiology of depression and suicide risk, and the psychiatric impact of traumatic brain injury. I'm also passionate about mental health advocacy and science communication.
 
 interests:
 - Depression & suicide risk
+- Community-based suicide prevention
 - Functional neuroimaging
 - Neuropsychiatric impact of traumatic brain injury
-- Mental health outreach & advocacy
+- Mental health public outreach & advocacy
 
 education:
   courses:
   - course: PhD in Medical Science
     institution: University of Toronto
-    year: 2015-present
+    year: 2022
   - course: HBSc in Human Biology (Neuroscience)
     institution: University of Toronto
     year: 2015
@@ -68,6 +69,6 @@ email: ""
 # - Visitors
 ---
 
-Hello! I'm a PhD Candidate with the Institute of Medical Science at the University of Toronto, based at the <a href="http://www.asrlife.ca/" target="_blank">ASR Suicide & Depression Studies Program</a> at St. Michael's Hospital and supervised by <a href="http://stmichaelshospitalresearch.ca/researchers/sidney-kennedy/" target="_blank">Dr. Sidney Kennedy</a>. My PhD research focuses on the association between concussion, depression & suicide risk, using a multimodal approach that incorporates brain imaging (fMRI), cognitive and reward processing, and clinical measures. I'm also involved in studies of neurobiological markers of suicide risk, Emergency Department visits for suicidality, and clinical trials of pharmacotherapy and neurostimulation for depression.
+Hello! I'm a Postdoctoral Fellow at the <a href="https://www.asrlife.ca/" target="_blank">ASR Suicide & Depression Studies Program</a> at St. Michael's Hospital. I received my PhD from the Institute of Medical Science at the University of Toronto, under the supervision of <a href="http://stmichaelshospitalresearch.ca/researchers/sidney-kennedy/" target="_blank">Dr. Sidney Kennedy</a>, where I focused on the association between depression and mild traumatic brain injury using neuroimaging, reward, and clinical measures. Throughout my doctoral degree, I was also involved in studies of neurobiological markers of suicide risk, Emergency Department visits for suicidality, and clinical trials of pharmacotherapy and neurostimulation for depression. My current postdoctoral work is in community-based suicide research, with a focus on building support capacity among the friends and family of those experiencing suicide risk, in collaboration with people with lived/living experience.
 
 I'm passionate about science communication in all forms &mdash; whether as a <a href="#teaching">Teaching Assistant</a>, as a mentor in the lab, through <a href="#outreach">public speaking & outreach events</a> with youth in the community, or right here online! I'm interested in bridging the gap between academic and public spaces, and integrating lived experience voices into the research process &mdash; making research a dynamic and collaborative process that's responsive to the input and needs of the communities it serves.
