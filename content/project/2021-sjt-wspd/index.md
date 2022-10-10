@@ -3,7 +3,7 @@ title: Suicide, stigma & seeking help
 summary: Sept. 1, 2021 | St. James Town Blog
 tags:
 - World Suicide Prevention Day
-date: "2020-09-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.stjamestown.org/2021/09/01/suicide-stigma-and-seeking-help/"
