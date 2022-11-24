@@ -110,9 +110,6 @@ contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://ca.linkedin.com/in/amandaceniti"},
   {icon = "researchgate", icon_pack = "ai", name = "ResearchGate Profile", link = "https://www.researchgate.net/profile/Amanda_Ceniti"},
   {icon = "pubmed", icon_pack = "ai", name = "Publications on PubMed", link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=ceniti+ak%5Bauthor%5D"},
-  - icon: mastodon
-  icon_pack: fa
-  link: https://mas.to/@aCeniti
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
