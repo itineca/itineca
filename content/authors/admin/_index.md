@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aCeniti
+- icon: mastodon
+  icon_pack: fab
+  link: https://mas.to/@aCeniti
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Amanda_Ceniti
