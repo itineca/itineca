@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: (she/her/hers)<br><br>Postdoctoral Fellow
+role: (she/her/hers)<br><a href="https://namedrop.io/amandaceniti" target="_blank">hear my name</a><br><br>Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
