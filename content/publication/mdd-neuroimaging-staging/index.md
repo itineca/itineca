@@ -1,7 +1,7 @@
 ---
 title: "An empirical analysis of structural neuroimaging profiles in a staging model of depression"
 authors:
-- Nogovitsyn N, Ballester P, Lasby M, Dunlop K, Ceniti AK, Squires S, Rowe J, Ho K, Suh J, Hassel S, Souza R, Casseb RF, Harris JK, Zamyadi M, Arnott SR, Strother SC, Hall G, Lam RW, Poppenk J, Lebel C, Bray S, Metzak P, Goldstein BI, Wang J, Rizvi SJ, MacQueen G, Addington J, Harkness KL, Rotzinger S, Kennedy SH, Frey BN
+- Nogovitsyn N, Ballester P, Lasby M, Dunlop K, Ceniti AK, ..., Frey BN
 date: "2024-04-15T00:00:00Z"
 doi: "10.1016/j.jad.2024.01.246"
 
