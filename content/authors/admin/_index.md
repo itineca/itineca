@@ -56,6 +56,9 @@ social:
 - icon: pubmed
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed/?term=ceniti+ak%5Bauthor%5D
+- icon: orcid
+  icon_pack: fa-brands
+  link: https://orcid.org/0000-0002-5266-2212
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -73,6 +76,6 @@ email: ""
 # - Visitors
 ---
 
-Hello! I am a Postdoctoral Fellow with the <a href="https://www.asrlife.ca/" target="_blank">ASR Suicide & Depression Studies Program</a> at St. Michael's Hospital, Unity Health Toronto. I received my PhD from the <a href="https://ims.utoronto.ca/" target="_blank">Institute of Medical Science</a> at the University of Toronto, under the supervision of <a href="http://stmichaelshospitalresearch.ca/researchers/sidney-kennedy/" target="_blank">Dr. Sidney Kennedy</a>, where I focused on the association between depression and mild traumatic brain injury using neuroimaging, reward, and clinical measures. Throughout my PhD, I was also involved in studies of neurobiological markers of suicide risk, Emergency Department visits for suicidality, and clinical trials of pharmacotherapy and neurostimulation for depression. My current postdoctoral work is in community-based suicide research, with a focus on building support capacity among the friends and family of those experiencing suicide risk, in collaboration with people with lived/living experience.
+Hello! I am a Postdoctoral Fellow with the <a href="https://www.asrlife.ca/" target="_blank">ASR Suicide & Depression Studies Program</a> at St. Michael's Hospital, Unity Health Toronto. I received my PhD from the <a href="https://ims.utoronto.ca/" target="_blank">Institute of Medical Science</a> and the <a href="https://neuroscience.utoronto.ca/" target="_blank">Collaborative Program in Neuroscience</a> at the University of Toronto, under the supervision of <a href="http://stmichaelshospitalresearch.ca/researchers/sidney-kennedy/" target="_blank">Dr. Sidney Kennedy</a>, where I focused on the association between depression and mild traumatic brain injury using neuroimaging, reward, and clinical measures. Throughout my PhD, I was also involved in studies of neurobiological markers of suicide risk, Emergency Department visits for suicidality, and clinical trials of pharmacotherapy and neurostimulation for depression. My current postdoctoral work is in community-based suicide research, with a focus on building support capacity among the friends and family of those experiencing suicide risk, in collaboration with people with lived/living experience.
 
 I'm passionate about science communication in all forms &mdash; whether as a <a href="#teaching">Teaching Assistant</a>, as a mentor in the lab, through <a href="#outreach">public speaking & outreach events</a> with youth in the community, or right here online! I'm interested in bridging the gap between academic and public spaces, and integrating lived experience voices into the research process &mdash; making research a dynamic and collaborative process that's responsive to the input and needs of the communities it serves.
