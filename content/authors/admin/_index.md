@@ -57,7 +57,7 @@ social:
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed/?term=ceniti+ak%5Bauthor%5D
 - icon: orcid
-  icon_pack: fa-brands
+  icon_pack: fab
   link: https://orcid.org/0000-0002-5266-2212
 
 # Link to a PDF of your resume/CV from the About widget.
