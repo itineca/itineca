@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Postdoctoral fellow at Unity Health Toronto in qualitative suicide prevention research. PhD from Institute of Medical Science, University of Toronto using neuroimaging to study depression and mTBI."
+description = "Assistant Instructional Professor of Psychology in MAPSS at the University of Chicago. Research interests in depression and suicide prevention research using neuroimaging, behavioral, qualitative, and participatory action research methods."
 
 ############################
 ## Site Features
@@ -100,7 +100,7 @@ directions = ""
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/aceniti-uchicago/office-hours"
+appointment_url = "https://calendly.com/aceniti-uchicago/office-hours/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
