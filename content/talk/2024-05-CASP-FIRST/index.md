@@ -1,7 +1,7 @@
 ---
 title: Gatekeeper Training for Suicide Prevention Tailored to Specific Populations (Symposium)
 event: Canadian Association for Suicide Prevention (CASP) Annual Conference
-event_url: https://www.conference.psychiatryandculture.org/
+event_url: https://suicideprevention.ca/
 
 location: Vancouver, BC, Canada
 #address:
