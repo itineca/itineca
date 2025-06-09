@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Chicago Student Wellness"
+  organization_url = "https://wellness.uchicago.edu/"
+  title = "Maroon Mental Health Matters"
+  url = "https://wellness.uchicago.edu/healthy-living/wellness-programming/maroon-mental-health-matters/"
+  certificate_url = ""
+  date_start = "2024-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Mental Health Commission of Canada"
   organization_url = "https://mentalhealthcommission.ca/"
   title = "Mental Health First Aid"
