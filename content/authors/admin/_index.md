@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: mastodon
-  icon_pack: fab
-  link: https://mas.to/@aCeniti
+# - icon: mastodon
+#   icon_pack: fab
+#   link: https://mas.to/@aCeniti
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Amanda_Ceniti
