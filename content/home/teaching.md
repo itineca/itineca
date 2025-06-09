@@ -3,7 +3,7 @@
 widget = "teaching"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -138,15 +138,15 @@ date_format = "Jan 2006"
   date_end = "2018-04-30"
   description = ""
 
-[[item]]
-  organization = "Saturday Program, University of Toronto"
-  organization_url = "https://www.saturday-program.com/"
-  title = "Tutor (High School Students)"
-  url = ""
-  teaching_evaluation = ""
-  date_start = "2016-01-01"
-  date_end = "2016-04-30"
-  description = ""
+# [[item]]
+#   organization = "Saturday Program, University of Toronto"
+#   organization_url = "https://www.saturday-program.com/"
+#   title = "Tutor (High School Students)"
+#   url = ""
+#   teaching_evaluation = ""
+#   date_start = "2016-01-01"
+#   date_end = "2016-04-30"
+#   description = ""
 
 
 
